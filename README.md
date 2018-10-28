@@ -10,7 +10,7 @@ Utilizing artificial intelligence powered by a service like Azure Cognitive Serv
 
 ## The Team
 ### David Grougan
-Placeholder text.
+A senior in Computer Science and Engineering at The Ohio State University, David has a particular interest in game design, having been introduced to programming by a desire to make games of his own. He has run the Game Creation Club at Ohio State for 3 years and is always looking for new technologies in game design.
 
 ### Marie Pendley
-Placeholder Text.
+A junior in Computer Science and Engineering at The Ohio State University.
